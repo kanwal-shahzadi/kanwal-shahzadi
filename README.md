@@ -1,11 +1,6 @@
-### Introduction👋
-
-
-**kanwal-shahzadi/kanwal-shahzadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 # 👋 Hi, I'm Kanwal Shahzadi
 
-## 📌 Introduction
+### 📌 Introduction
 I am **Kanwal Shahzadi**, a **PhD scholar in Mathematics** with a strong academic and teaching background.  
 I have completed my **MS in Mathematics (2024)** and **BS in Mathematics (2020)**.  
 My research interests include **numerical analysis, differential equations, and mathematical modeling**.  

@@ -71,7 +71,7 @@ Currently, I am **learning Python** to strengthen my PhD research and computatio
 ## 📬 Contact Information
 - 📧 Email: **kanwal.shahzadi16025@gmail.com**
 - 💼 LinkedIn: [Kanwal Shahzadi](https://www.linkedin.com/in/kanwal-shahzadi-99753127b)
-- 💻 GitHub: https://github.com/your-kanwal-shahzadi
+- 💻 GitHub: https://github.com/kanwal-shahzadi
 
 
 
